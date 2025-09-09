@@ -1,4 +1,10 @@
-### Allocate Books
-- **Source:** Naukri Code360 “Allocate Books” challenge  
-- **File:** `allocate_books.cpp`  
-- **Approach:** Perform a binary search on the answer range and greedily assign books to students to test feasibility.
+# C++ DSA Practice Solutions
+
+## Binary Search
+- `allocate-books.cpp` – Allocate Books (Naukri Code360)
+
+## Greedy
+- `some_greedy_problem.cpp` – Some Greedy Challenge
+
+## Graphs
+- `dijkstra.cpp` – Dijkstra’s Shortest Path
