@@ -8,3 +8,4 @@
 - `bubble-sort.cpp` - Bubble Sort (Naukri Code360 - https://www.naukri.com/code360/problems/bubble-sort_980524)
 - `insertion-sort.cpp` - Insertion Sort (Naukri Code360 - https://www.naukri.com/code360/problems/insertion-sort_3155179)
 - `palindrome-number.cpp` - Palindrome Number (LeetCode - https://leetcode.com/problems/palindrome-number/description)
+- `roman-to-integer.cpp` - Roman To Integer (LeetCode - https://leetcode.com/problems/roman-to-integer/description)
