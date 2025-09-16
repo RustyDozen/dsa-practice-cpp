@@ -11,4 +11,4 @@
 - `roman-to-integer.cpp` - Roman To Integer (LeetCode - https://leetcode.com/problems/roman-to-integer/description)
 - `reverse-the-array.cpp` - Reverse The Array (Naukri Code360 - https://www.naukri.com/code360/problems/reverse-the-array_1262298)
 - `merge-sorted-array.cpp` - Merge Sorted Array (LeetCode - https://leetcode.com/problems/merge-sorted-array)
-- `moves-zeroes.cpp` - Moves Zeroes (LeetCode - https://leetcode.com/problems/move-zeroes)
+- `move-zeroes.cpp` - Move Zeroes (LeetCode - https://leetcode.com/problems/move-zeroes)
