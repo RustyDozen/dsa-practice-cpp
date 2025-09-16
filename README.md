@@ -9,3 +9,4 @@
 - `insertion-sort.cpp` - Insertion Sort (Naukri Code360 - https://www.naukri.com/code360/problems/insertion-sort_3155179)
 - `palindrome-number.cpp` - Palindrome Number (LeetCode - https://leetcode.com/problems/palindrome-number/description)
 - `roman-to-integer.cpp` - Roman To Integer (LeetCode - https://leetcode.com/problems/roman-to-integer/description)
+- `reverse-the-array.cpp` - Reverse The Array (Naukri Code360 - https://www.naukri.com/code360/problems/reverse-the-array_1262298)
