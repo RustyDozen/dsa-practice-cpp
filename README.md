@@ -12,3 +12,4 @@
 - `reverse-the-array.cpp` - Reverse The Array (Naukri Code360 - https://www.naukri.com/code360/problems/reverse-the-array_1262298)
 - `merge-sorted-array.cpp` - Merge Sorted Array (LeetCode - https://leetcode.com/problems/merge-sorted-array)
 - `move-zeroes.cpp` - Move Zeroes (LeetCode - https://leetcode.com/problems/move-zeroes)
+- `longest-common-prefix.cpp` - Longest Common Prefix (LeetCode - https://leetcode.com/problems/longest-common-prefix)
