@@ -14,3 +14,4 @@
 - `move-zeroes.cpp` - Move Zeroes (LeetCode - https://leetcode.com/problems/move-zeroes)
 - `longest-common-prefix.cpp` - Longest Common Prefix (LeetCode - https://leetcode.com/problems/longest-common-prefix)
 - `valid-parentheses.cpp` - Valid Parentheses (LeetCode - https://leetcode.com/problems/valid-parentheses)
+- `rotate-array.cpp` - Rotate Array (LeetCode - https://leetcode.com/problems/rotate-array)
