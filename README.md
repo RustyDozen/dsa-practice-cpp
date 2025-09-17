@@ -16,3 +16,4 @@
 - `valid-parentheses.cpp` - Valid Parentheses (LeetCode - https://leetcode.com/problems/valid-parentheses)
 - `rotate-array.cpp` - Rotate Array (LeetCode - https://leetcode.com/problems/rotate-array)
 - `array-sorted-rotated.cpp` - Check If Array Is Sorted And Rotated (LeetCode - https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
+- `sum-of-two-arrays.cpp` - Sum Of Two Arrays (Naukri Code360 - https://www.naukri.com/code360/problems/sum-of-two-arrays_893186)
