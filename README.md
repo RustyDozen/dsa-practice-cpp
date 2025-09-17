@@ -15,3 +15,4 @@
 - `longest-common-prefix.cpp` - Longest Common Prefix (LeetCode - https://leetcode.com/problems/longest-common-prefix)
 - `valid-parentheses.cpp` - Valid Parentheses (LeetCode - https://leetcode.com/problems/valid-parentheses)
 - `rotate-array.cpp` - Rotate Array (LeetCode - https://leetcode.com/problems/rotate-array)
+- `array-sorted-rotated.cpp` - Check If Array Is Sorted And Rotated (LeetCode - https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
