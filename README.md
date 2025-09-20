@@ -18,3 +18,4 @@
 - `array-sorted-rotated.cpp` - Check If Array Is Sorted And Rotated (LeetCode - https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)
 - `sum-of-two-arrays.cpp` - Sum Of Two Arrays (Naukri Code360 - https://www.naukri.com/code360/problems/sum-of-two-arrays_893186)
 - `reverse-string.cpp` - Reverse String (LeetCode - https://leetcode.com/problems/reverse-string)
+- `check-string-palindrome.cpp` - Check If String Is A Palindrome(Naukri Code360 - https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)
