@@ -24,3 +24,4 @@
 - `replace-spaces.cpp` - Replace Spaces (Naukri Code360 - https://www.naukri.com/code360/problems/replace-spaces_1172172)
 - `remove-all-occurrences-substring.cpp` - Remove All Occurrences of a Substring (LeetCode - https://leetcode.com/problems/remove-all-occurrences-of-a-substring)
 - `permutation-string.cpp` - Permutation in String (LeetCode - https://leetcode.com/problems/permutation-in-string)
+- `string-compression.cpp` - String Compression (LeetCode - https://leetcode.com/problems/string-compression)
