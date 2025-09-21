@@ -21,3 +21,4 @@
 - `check-string-palindrome.cpp` - Check If String Is A Palindrome(Naukri Code360 - https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)
 - `valid-palindrome.cpp` - Valid Palindrome (LeetCode - https://leetcode.com/problems/valid-palindrome)
 - `most-frequent-character.cpp` - Most Frequent Character (GeeksForGeeks - https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)
+- `replace-spaces.cpp` - Replace Spaces (Naukri Code360 - https://www.naukri.com/code360/problems/replace-spaces_1172172)
