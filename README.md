@@ -22,3 +22,4 @@
 - `valid-palindrome.cpp` - Valid Palindrome (LeetCode - https://leetcode.com/problems/valid-palindrome)
 - `most-frequent-character.cpp` - Most Frequent Character (GeeksForGeeks - https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1)
 - `replace-spaces.cpp` - Replace Spaces (Naukri Code360 - https://www.naukri.com/code360/problems/replace-spaces_1172172)
+- `remove-all-occurrences-substring.cpp` - Remove All Occurrences of a Substring (LeetCode - https://leetcode.com/problems/remove-all-occurrences-of-a-substring)
