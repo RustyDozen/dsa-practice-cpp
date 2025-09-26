@@ -30,3 +30,4 @@
 - `search-2d-matrix.cpp` - Search A 2D Matrix (LeetCode - https://leetcode.com/problems/search-a-2d-matrix)
 - `search-2d-matrix-ii.cpp` - Search A 2D Matrix II (LeetCode - https://leetcode.com/problems/search-a-2d-matrix-ii)
 - `count-primes.cpp` - Count Primes (LeetCode - https://leetcode.com/problems/count-primes)
+- `modular-exponentiation.cpp` - Modular Exponentiation (Naukri Code360 - https://www.naukri.com/code360/problems/modular-exponentiation_1082146)
