@@ -32,3 +32,4 @@
 - `count-primes.cpp` - Count Primes (LeetCode - https://leetcode.com/problems/count-primes)
 - `modular-exponentiation.cpp` - Modular Exponentiation (Naukri Code360 - https://www.naukri.com/code360/problems/modular-exponentiation_1082146)
 - `maximum-subarray.cpp` - Maximum Subarray (LeetCode - https://leetcode.com/problems/maximum-subarray)
+- `majority-element.cpp` - Majority Element (LeetCode - https://leetcode.com/problems/majority-element)
